@@ -1,4 +1,4 @@
-# Kolisa Admin - Application d'administration pour livreurs
+# Cliver Admin - Application d'administration pour livreurs
 
 Application Flutter d'administration pour la plateforme de livraison Kolisa, permettant aux administrateurs de gérer les livreurs, vérifier les KYC et assurer le support.
 
@@ -172,6 +172,4 @@ Pour toute question ou problème :
 - Contactez l'équipe de développement
 - Consultez la documentation Supabase
 
----
-
-**Développé avec ❤️ par l'équipe Kolisa**
+--- 
