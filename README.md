@@ -161,15 +161,6 @@ FOR SELECT USING (auth.role() = 'authenticated');
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 📞 Support
-
-Pour toute question ou problème :
-- Créez une issue sur GitHub
-- Contactez l'équipe de développement
-- Consultez la documentation Supabase
 
 --- 
